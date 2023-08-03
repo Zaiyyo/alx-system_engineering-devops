@@ -1,2 +1,2 @@
 #!/bin/bash
-CHMOD -R +x
+CHMOD -R 755
