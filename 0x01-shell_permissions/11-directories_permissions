@@ -1,2 +1,2 @@
 #!/bin/bash
-CHMOD -R u+X
+CHMOD -R +X
