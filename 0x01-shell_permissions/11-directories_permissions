@@ -1,2 +1,2 @@
 #!/bin/bash
-CHMOD -R u+x,g+x,o+x
+CHMOD -R u+x,g+x,o+x .
