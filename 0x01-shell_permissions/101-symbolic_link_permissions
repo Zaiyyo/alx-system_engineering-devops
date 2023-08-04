@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod vincent:staff _file
+for file in *; do
+  chown vincent:staff $file
